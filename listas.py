@@ -14,6 +14,8 @@ Já em Python:
 
 As listas em Python sã representados por colchetes: []
 
+Listas são mutáveis, ou seja, elas podem mudar constantemente.
+
 type([])
 
 lista1 = [1, 99, 4, 27, 15, 22, 3, 1, 44, 42, 27]
